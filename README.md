@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shabbeerumer@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ umer-shabbeer-flutter-developer](www.linkedin.com/in/ umer-shabbeer-flutter-developer)
+- 📄 Know about my experiences [https://www.linkedin.com/in/umer-shabbeer-flutter-developer/](https://www.linkedin.com/in/umer-shabbeer-flutter-developer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
